@@ -1,0 +1,5 @@
+package com.java.vitor.calc.modelo;
+
+public enum Op {
+    ZERAR, NUMERO, TROCAR_SINAL, PORCENTAGEM, DIVIDIR, MULTIPLICAR, SUBTRAIR, VIRGULA, SOMAR, EQUALIZAR, NADA;
+}
